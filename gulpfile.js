@@ -32,7 +32,7 @@ var paths = {
     },
 
     images: {
-        files: "src/svg/"
+        files: "src/images/"
     }
 };
 
