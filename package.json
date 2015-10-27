@@ -1,0 +1,21 @@
+{
+  "name": "icons",
+  "version": "1.0.0",
+  "description": "SVG icon pack",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-filenames": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-stylus": "^2.1.0",
+    "gulp-template": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marinescu Evghenii",
+  "license": "ISC"
+}
